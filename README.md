@@ -2,7 +2,7 @@
 
 I'm QAQAutoMaton, A simple & stupid OIer.
 
-![cf](http://cfrating.ihcr.top/?user=QAQAutoMaton)
+<!-- ![cf](http://cfrating.ihcr.top/?user=QAQAutoMaton) -->
 
 <!--
 **QAQAutoMaton/QAQAutoMaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
